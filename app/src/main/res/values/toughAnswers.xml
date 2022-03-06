@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="to_answers">
+        <item>Android does not use the traditional Java Virtual Machine. Instead, it uses Dalvik Virtual Machine that uses a special bytecode. That is why we cannot execute standard Java programs on an Android device. </item>
+        <item>The main difference between a regular .png and nine patch image is that the latter includes an extra 1-pixel border around the image that determines where the image can be stretched to meet the specific layout constraints. </item>
+        <item>The sensor framework that forms a part of Android package includes the following Java Classes 1.Sensor 2.Sensor Manager 3.Sesor Event 4.Sensor Event Listner</item>
+        <item>Serializable is a standard Java interface.Parcelable interface is a part of Android SDK where you implement the serialization yourself. </item>
+        <item>In order to communicate from host activity to fragment, construction arguments are passed via Bundle. Setarguments(Bundle) is used to supply construction arguments for a fragment.</item>
+        <item>ANR refers to ‘Application Not responding’. It is a dialog box that appears when the user is interacting with an activity but activity is on Resume() method. Basically, the application does not respond for more than 5 seconds</item>
+        <item>If two android applications require sharing same Linux user ID and same VM, they must sign with the same certificate. Android assigns a unique user ID to each application.</item>
+        <item>The sensor framework that forms a part of Android package has Sensor and SensorManager classes. But these classes do not provide the hasSystemFeature() method.</item>
+        <item>1-Inflate Exception 2-Surface.OutOfResourceException 3-SurfaceHolder.BadSurfaceTypeException 4-WindowManager.BadTokenException </item>
+        <item>Hybrid inheritance is a combination of single and multiple inheritance. Since Java doesn’t support multiple inheritances with classes, hybrid inheritance is also not possible with classes. </item>
+    </string-array>
+</resources>

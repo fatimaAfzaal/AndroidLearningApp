@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="s_question">
+        <item>What is android?</item>
+        <item>Which kernel is used in android?</item>
+        <item>What is AAPT?</item>
+        <item>What is the use of Bundle in Android?</item>
+        <item>What are the features of Android architecture?</item>
+        <item>List the languages used to build Android</item>
+        <item>What is an activity?</item>
+        <item> What is a service in Android?</item>
+        <item>Differentiate Activities from Services.</item>
+        <item>What is Google Android SDK? </item>
+
+
+    </string-array>
+</resources>

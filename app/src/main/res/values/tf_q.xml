@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="t_questions">
+        <item>Android is an operating system</item>
+        <item>APK stands for Application Programming Kit</item>
+        <item>Android is an open source, Linux-based software stack.</item>
+        <item>The Android library code is organized in such a way that it can be used by multiple Android applications.</item>
+        <item>Android content providers are used to manage and share application data between applications.</item>
+        <item>AVD stands for Android Virtual Display</item>
+        <item>When your app goes into the background, it is not guaranteed to be destroyed. </item>
+        <item>Scroll view can contain only one view, or view group, as a child.</item>
+        <item>Android is mainly developed for laptops</item>
+        <item>ADB stands for Android Debug Bridge</item>
+    </string-array>
+</resources>

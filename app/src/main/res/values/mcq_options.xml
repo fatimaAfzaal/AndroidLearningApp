@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mcq_Answer1">
+        <item>an operating system</item>
+        <item>Servers</item>
+        <item>JVM</item>
+        <item>Java</item>
+        <item>Android Phone Kit</item>
+        <item>Application Programming Interface</item>
+        <item>By using the stopSelf() and stopService() method</item>
+        <item>android class</item>
+        <item>Using finish() method</item>
+        <item>Android debug bridge</item>
+    </string-array>
+    <string-array name="mcq_Answer2">
+        <item>a web browser</item>
+        <item>Desktops</item>
+        <item>Dalvik virtual machine</item>
+        <item>C++</item>
+        <item>Android Page Kit</item>
+        <item>Android Programming Interface</item>
+        <item>By using the finish() method</item>
+        <item>android package</item>
+        <item>Using finishActivity(int requestCode)</item>
+        <item> Android delete bridge</item>
+    </string-array>
+    <string-array name="mcq_Answer3">
+        <item>a web server</item>
+        <item>Laptops</item>
+        <item>Simple virtual machine</item>
+        <item>C</item>
+        <item>Android Package Kit</item>
+        <item>Android Page Interface</item>
+        <item>By using system.exit() method</item>
+        <item>A single screen in an application with supporting java code</item>
+        <item>Both (a) and (b)</item>
+        <item>Android destroy bridge</item>
+    </string-array>
+    <string-array name="mcq_Answer4">
+        <item>None of the above</item>
+        <item>Mobile devices</item>
+        <item>None of the above</item>
+        <item>None of the above</item>
+        <item>None of the above</item>
+        <item>Application Page Interface</item>
+        <item>None of the above</item>
+        <item>None of the above</item>
+        <item>Neither (a) nor (b)</item>
+        <item> None of the above</item>
+    </string-array>
+    <string-array name="mcq_Answerc">
+        <item>an operating system</item>
+        <item>Mobile devices</item>
+        <item>Dalvik virtual machine</item>
+        <item>Java</item>
+        <item>Android Package Kit</item>
+        <item>Application Programming Interface</item>
+        <item>By using the stopSelf() and stopService() method</item>
+        <item>A single screen in an application with supporting java code</item>
+        <item>Both (a) and (b)</item>
+        <item>Android debug bridge</item>
+    </string-array>
+</resources>
