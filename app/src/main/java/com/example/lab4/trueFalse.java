@@ -81,7 +81,7 @@ public class trueFalse extends AppCompatActivity implements View.OnClickListener
                 else if(index==9 && flag==false) {
                     rgg.setVisibility(view.INVISIBLE);
                     tfq.setText("Correct : "+c+"\nIncorrect: "+i);
-                    tfx.setText("Result: ");
+                    tfx.setText("Score: "+c);
                     tfy.setText(" ");
                     tfq.setTextSize(40);
                     bn.setText("RETRY!!");

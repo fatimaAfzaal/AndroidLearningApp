@@ -96,8 +96,7 @@ public class Mcqs extends AppCompatActivity implements View.OnClickListener{
                 else if(index==9 && flag==false) {
                     rg.setVisibility(view.INVISIBLE);
                     tmq.setText("Correct : "+correct+"\nIncorrect: "+icorrect);
-                    tmx.setText("Result: ");
-                    tmy.setText(" ");
+                    tmx.setText("Score: "+correct);
                     tmq.setTextSize(40);
                     bn.setText("RETRY!!");
                     index++;
